@@ -13,6 +13,12 @@ body {
 #nav {
   font-size: 18px;
 }
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
 
 h1 {
   font-size: 70px;
